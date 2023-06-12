@@ -1,52 +1,60 @@
 # lsst-dsfp-2023
 
-Challenges (and solutions!) for the LSST DSFP 2023.
+Challenges and solutions for the LSST DSFP 2023.
+
+These will only work in the Rubin Science Platform (RSP) deployed at the
+Interim Data Facility (IDF) for Data Preview 0 (DP0), at data.lsst.cloud.
+
+These will only work with the <a href="https://dp0-2.lsst.io/index.html">DP0.2 data release</a>.
+
 
 ## Instructions
 
 ### Get set up.
 
-Work in pairs, one of you is the driver and the other the navigator.
+Work in pairs, with one of you as the driver and the other as the navigator.
 
 **Driver:** Has Rubin data rights and is logged in to their account in the 
 Rubin Science Platform at data.lsst.cloud.
-
-Need an RSP account? <br>
-https://dp0-2.lsst.io/dp0-delegate-resources/index.html#delegate-homepage-getting-started-checklist
+See the "<a href="https://dp0-2.lsst.io/dp0-delegate-resources/index.html#delegate-homepage-getting-started-checklist">Getting started with DP0 checklist</a>" for how to get an RSP account.
 
 **Navigator:** Accesses the DP0.2 documentation, data product schemas, 
 does the Google searches, etc. Data rights and an RSP account are not needed.
 
-### Pick a challenge from the list below.
+### Pick a challenge.
 
-Pick any that interest you, they are not sequential.
+Pick any that interest you. They are not sequential.
+
+Challenges come with limited instructions so you have to figure things out for yourself.
+
+Peaking at the solutions is totally fine! Have fun.
 
 They are designed to help learn about the Rubin Science Platform
-and the Data Preview 0 format and contents, not to learn
+and the Data Preview 0 format and contents, not necessarily to learn
 about data science.
 
-They're also designed to be pretty simple.
+#### Or choose an alternative activity.
 
-### Give feedback!
+If for any reason the challenges aren't working for you, feel free to try these alternatives.
+If you're completely new to Jupyter Notebooks, consider running through 
+the first tutorial in the `notebooks/tutorial-notebooks/` folder first.
 
-The LSST DSFP 2023 are the first to encounter this kind of "challenge" and "solution" arrangement.
+Work through this set of <a href="https://github.com/rubin-dp0/little-demos">little RSP demos</a> (~10 min each).
 
-At the end of the session, all pairs should stop and have an open discussion about the
-challenges and solutions.
-
-Please also email Melissa Graham with your thoughts or to contribute. <br>
-https://astro.washington.edu/people/melissa-l-graham
+Work through a <a href="https://dp0-2.lsst.io/tutorials-examples/index.html">full DP0 tutorial</a> (30-60 min each).
 
 
-### Continue your learning in your own time.
+### Give feedback.
 
-To advance your learning, work through the DP0.2 Portal Tutorials
-and Notebook Tutorials (the latter will appear automatically in
-your RSP home directory). <br>
-https://dp0-2.lsst.io/tutorials-examples/index.html
+These challenges are brand new for the DSFP 2023.
+At the end of the session, discuss how well they functioned as learning tools.
+
+Consider emailing <a href="https://astro.washington.edu/people/melissa-l-graham">Melissa Graham</a> with your thoughts.
 
 
 ## Portal Challenges
+
+Last verified to run: Sun Jul 11 2023
 
 ### Challenge 1: Where's Waldo?
 
@@ -66,10 +74,12 @@ Be a good friend and check if LSST knows whether a star is variable.
 
 ## Notebook Challenges
 
+Last verified to run: Sun Jul 11 2023 <br>
+Recommended RSP image: Weekly 2023_21 <br>
+Container size: large
+
 ### Challenge 4: Datashader
 
 Use the plotting package `datashader` to make an interactive plot of a million or more data points.
-
-### Challenge 5: 
 
 
