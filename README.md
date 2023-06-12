@@ -14,10 +14,13 @@ find it in the `Object` catalog.
 Knowing only the central coordinates of a rich galaxy cluster, make a
 color-magnitude diagram to match the example.
 
+### Challenge 3: Variable Star Check
+
+Be a good friend and check if LSST knows whether a star is variable.
 
 ## Notebook Challenges
 
-
+## Challenge 11: 
 
 ## Contribute
 
