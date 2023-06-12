@@ -14,8 +14,10 @@ https://dp0-2.lsst.io/data-access-analysis-tools/portal-intro.html
 Recommended search parameters and recommended flux columns for extended objects <br>
 https://dp0-2.lsst.io/data-products-dp0-2/index.html#catalogs
 
+
 ## Hint
 
+Don't get fancy.
 Query for bright extended objects near the tract center and then visually review
 the results until you spy the target.
 
