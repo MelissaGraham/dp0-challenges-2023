@@ -4,8 +4,15 @@ Challenges and solutions for the LSST DSFP 2023.
 
 These will only work in the Rubin Science Platform (RSP) deployed at the
 Interim Data Facility (IDF) for Data Preview 0 (DP0), at data.lsst.cloud.
-
 These will only work with the <a href="https://dp0-2.lsst.io/index.html">DP0.2 data release</a>.
+
+
+## Resources
+
+Particular resources are given in each challenge, but generally all of them are
+in the <a href="https://dp0-2.lsst.io/">DP0.2 documentation</a>, including
+<a href="https://dp0-2.lsst.io/data-access-analysis-tools/index.html#rubin-science-platform-rsp">instructions for the Rubin Science Platform</a>, the contents
+of the <a href="https://dp0-2.lsst.io/data-products-dp0-2/index.html#dp0-2-data-products-definition-document-dpdd">DP0.2 data release</a> (and the <a href="https://dm.lsst.org/sdm_schemas/browser/dp02.html">DP0.2 catalog schema browser</a>), and various <a href="https://dp0-2.lsst.io/tutorials-examples/index.html">DP0.2 tutorials</a>.
 
 
 ## Instructions
