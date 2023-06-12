@@ -1,4 +1,6 @@
-# Challenge 1: Galaxy Hunt
+# Challenge 1: Where's Waldo
+
+If you do not enjoy the Where's Waldo books, maybe skip this... :)
 
 In the DP0.2 documentation, the first figure on the DP0.2 data products page
 has three panels: the grid of tracts, the image of tract 3828, and a zoom-in
